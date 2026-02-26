@@ -13,6 +13,7 @@ tests/unit/*
 bin/qd.exe
 bin/3d.exe
 bin/cddl.exe
+bin/everparse/
 lib/evercddl
 .depend.rsp
 
